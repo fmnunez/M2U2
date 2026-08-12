@@ -43,8 +43,9 @@ header {
         box-sizing: border-box;
     }
 
+    /* Cambio a color mostaza suave para el smartphone */
     .sidebar-m2u2 {
-        background-color: #f2ebc1;
+        background-color: #e2c044; /* Color mostaza suave */
         color: black;
     }
 }
